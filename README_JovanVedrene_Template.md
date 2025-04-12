@@ -57,4 +57,8 @@ Let’s connect:
 
 ---
 
+https://github.com/user-attachments/assets/5099003e-1a20-47c2-acb1-88f5352dc94f
+
+
+
 > “Hands-on with electronic hardware. Evolving through Python code.”
